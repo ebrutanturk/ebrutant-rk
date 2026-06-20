@@ -4,7 +4,7 @@
 
 ## Bilgisayar Programcısı Adayı
 
-Balıkesir Üniversitesi Bilgisayar Programcılığı bölümünde eğitim gören ve kurumsal standartlarda kod yazmayı hedefleyen bir geliştirici adayıyım. Kullanıcı dostu, modern ve duyarlı (responsive) web arayüzleri tasarlamaktan keyif alıyor; aynı zamanda projelerime bütüncül bir bakış açısıyla yaklaşmaya odaklanıyorum.
+Balıkesir Üniversitesi Bilgisayar Programcılığı bölümünde eğitim gören ve kurumsal standartlarda kod yazmayı hedefleyen bir geliştirici adayıyım. Algoritmik düşünme, veri yapıları ve yazılım geliştirme süreçlerine odaklanıyor; projelerime mantıksal ve bütüncül bir bakış açısıyla yaklaşarak kendimi bu alanda sürekli geliştirmeyi hedefliyorum.
 
 ---
 
@@ -18,7 +18,7 @@ Balıkesir Üniversitesi Bilgisayar Programcılığı bölümünde eğitim göre
 
 ### İletişim ve Bağlantılar
 
-<a href="https://www.linkedin.com/in/ebru-tant%C3%BCrk-9954a8418/?skipRedirect=true target="_blank">
+<a href="https://www.linkedin.com/in/ebru-tant%C3%BCrk-9954a8418/" target="_blank">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a> &nbsp;
 <a href="mailto:tanturkebruu@gmail.com" target="_blank">
